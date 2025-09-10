@@ -86,4 +86,4 @@ This project is licensed for personal and educational use. Attribution is apprec
 
 ## 🙋‍♂️ Author
 
-Created by Von Russel – feel free to customize this with your GitHub or contact info.
+Created by Von Russel 
